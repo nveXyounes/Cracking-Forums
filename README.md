@@ -52,7 +52,7 @@ This is the main part of cracking. In this part, you use different tools to crac
 6. Combolists
  These are the mainly tools which you want in cracking..
 
-I think that’s enough tool for beginners to start cracking. Also, use these tools on RDP/VPS because some of these tools contain a virus that can harm your computer. If you want to purchase RDP/VPS then mail me on anonymoush4kr.z@gmail.com
+I think that’s enough tool for beginners to start cracking. Also, use these tools on RDP/VPS because some of these tools contain a virus that can harm your computer. If you want to purchase RDP/VPS then mail me on xforums.nve@gmail.com
 
 # How to use a checker?
 
